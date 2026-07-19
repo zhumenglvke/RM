@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/result.dir/Src/test.cpp.o CMakeFiles/result.dir/Tool/tool.cpp.o -o result 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wlw/Desktop/RM/OpenCV_Test/build",
+  "command": "/usr/bin/g++ -DFMT_LOCALE -DFMT_SHARED -I/home/wlw/Desktop/RM/OpenCV_Test/Inc -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/Src/main.cpp.o -c /home/wlw/Desktop/RM/OpenCV_Test/Src/main.cpp",
+  "file": "/home/wlw/Desktop/RM/OpenCV_Test/Src/main.cpp"
+},
+{
+  "directory": "/home/wlw/Desktop/RM/OpenCV_Test/build",
+  "command": "/usr/bin/g++ -DFMT_LOCALE -DFMT_SHARED -I/home/wlw/Desktop/RM/OpenCV_Test/Inc -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/Tool/image_utils.cpp.o -c /home/wlw/Desktop/RM/OpenCV_Test/Tool/image_utils.cpp",
+  "file": "/home/wlw/Desktop/RM/OpenCV_Test/Tool/image_utils.cpp"
+}
+]

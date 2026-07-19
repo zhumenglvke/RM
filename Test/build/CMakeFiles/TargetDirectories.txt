@@ -1,0 +1,3 @@
+/home/wlw/Desktop/RM/Test/build/CMakeFiles/opencv_test_app.dir
+/home/wlw/Desktop/RM/Test/build/CMakeFiles/edit_cache.dir
+/home/wlw/Desktop/RM/Test/build/CMakeFiles/rebuild_cache.dir
